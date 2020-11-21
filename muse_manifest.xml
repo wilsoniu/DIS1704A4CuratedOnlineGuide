@@ -1,0 +1,177 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DronePhotographyGuide.com" resolutions="1x,2x" timestamp="1605955551160">
+  <folder name="css">
+    <file name="site_global.css" crc="4233628415"/>
+    <file name="index.css" crc="3856209192" ref="index"/>
+    <file name="nomq_index.css" crc="4239714855" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mavic-crop-u629.png" crc="477161194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner gallery1.jpg" crc="4103895391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="banner gallery-3.jpg" crc="4034089066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner gallery3.jpg" crc="3849019171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner gallery4.jpg" crc="4016501515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="s2bg@2x.jpg" crc="502239839" ref="index"/>
+    <file name="s2img@2x.jpg" crc="4015760462" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2img@2x_2x.jpg" crc="3865652750" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s3bg@2x.jpg" crc="385725541" ref="index"/>
+    <file name="s3img@2x.jpg" crc="3951026295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4img@2x.jpg" crc="4011694999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4img@2x2.jpg" crc="32222791" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4img@2x_2x.jpg" crc="4011694999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s5bg@2x.png" crc="472025711" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1box@2x.png" crc="3966469672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2box@2x.png" crc="249461114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3box@2x.png" crc="3837143612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6bg@2x.png" crc="443524299" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6img@2x.jpg" crc="4127933744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6img@2x_2x.jpg" crc="266129989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s7bg@2x.png" crc="475779108" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s7img@2x.jpg" crc="3831896156" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s8bg@2x.png" crc="217685478" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s8img@2x.jpg" crc="201907612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s8img@2x_2x.jpg" crc="4180044863" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s9bg@2x.jpg" crc="385725541" ref="index"/>
+    <file name="arcade@2x.png" crc="122304325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arcade@2x_2x.png" crc="316185458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mavic-crop-u6292.png" crc="67652983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2bg@2x_2x.jpg" crc="4221694245" ref="index"/>
+    <file name="s3img@2x2.jpg" crc="3889982831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s3img@2x_2x.jpg" crc="3951026295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1box@2x875x634.png" crc="264584671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2box@2x873x634.png" crc="379993934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3box@2x875x634.png" crc="78573547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6bg@2x2.png" crc="4229880271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6bg@2x_2x.png" crc="443524299" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s7img@2x2.jpg" crc="368612908" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s7img@2x_2x.jpg" crc="3831896156" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arcade@2x21x23.png" crc="534438438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arcade@2x21x23_2x.png" crc="316185458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mavic-crop-u6293.png" crc="3783986514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s2img@2x-u1161-fr.jpg" crc="4013522681" ref="index"/>
+    <file name="s2img@2x-u1161-fr_2x.jpg" crc="4179062652" ref="index"/>
+    <file name="s4img@2x-u4624-fr.jpg" crc="100343810" ref="index"/>
+    <file name="s4img@2x-u4624-fr_2x.jpg" crc="518607394" ref="index"/>
+    <file name="s5bg@2x2.png" crc="495746331" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s5bg@2x_2x.png" crc="472025711" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1box@2x545x396.png" crc="3983789351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2box@2x545x396.png" crc="282827019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3box@2x545x396.png" crc="4077854305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s6img@2x-u5307-fr.jpg" crc="527979512" ref="index"/>
+    <file name="s6img@2x-u5307-fr_2x.jpg" crc="4182432711" ref="index"/>
+    <file name="s8img@2x-u5530-fr.jpg" crc="301160828" ref="index"/>
+    <file name="s8img@2x-u5530-fr_2x.jpg" crc="370068357" ref="index"/>
+  </folder>
+  <file name="index.html" crc="65120046" seo="true" mt="1605955263970" redirect="true"/>
+</manifest>
